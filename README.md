@@ -6,11 +6,11 @@
 
 ### 户外婚礼场景
 
-![户外婚纱照转换为韩系暖棕极简婚礼插画的前后对比](assets/outdoor-before-after.png)
+![户外婚纱照转换为韩系暖棕极简婚礼插画的前后对比](outdoor-before-after.png)
 
 ### 室内婚礼场景
 
-![室内婚纱照转换为韩系暖棕极简婚礼插画的前后对比](assets/indoor-before-after.png)
+![室内婚纱照转换为韩系暖棕极简婚礼插画的前后对比](indoor-before-after.png)
 
 ## 主要特点
 
@@ -38,11 +38,10 @@
 
 ```text
 wedding-warm-brown-korean-minimal-skill/
-├── assets/
-│   ├── indoor-before-after.png   # 室内场景效果预览
-│   └── outdoor-before-after.png  # 户外场景效果预览
 ├── README.md                     # 项目介绍与使用说明
-└── SKILL.md                      # 完整的风格规则、提示词、工作流程与质检标准
+├── SKILL.md                      # 完整的风格规则、提示词、工作流程与质检标准
+├── indoor-before-after.png       # 室内场景效果预览
+└── outdoor-before-after.png      # 户外场景效果预览
 ```
 
 ## 使用方法
