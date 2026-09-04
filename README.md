@@ -6,7 +6,7 @@
 
 ### 户外婚礼场景
 
-![户外婚纱照转换效果](outdoor-before-after.pn)
+![户外婚纱照转换效果](outdoor-before-after.png)
 
 ### 室内婚礼场景
 
