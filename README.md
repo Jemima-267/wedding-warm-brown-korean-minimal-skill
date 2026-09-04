@@ -6,11 +6,11 @@
 
 ### 户外婚礼场景
 
-![户外婚纱照转换效果](cd100eb2-0512-46bb-b12e-32a72cf4782a.png)
+![户外婚纱照转换效果](outdoor-before-after.pn)
 
 ### 室内婚礼场景
 
-![室内婚纱照转换效果](8c189628-508f-44cf-afc9-39b115a606d2.png)
+![室内婚纱照转换效果](indoor-before-after.png)
 
 ## 主要特点
 
