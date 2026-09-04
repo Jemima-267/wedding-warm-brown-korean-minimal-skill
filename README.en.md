@@ -30,7 +30,6 @@ This is an AI creative skill for transforming wedding photographs into soft, res
 This Skill is suitable for creating:
 
 - Wedding invitation illustrations
-- Save the Date artwork
 - Wedding welcome board illustrations
 - Wedding keepsake cards
 - Wedding social media artwork
